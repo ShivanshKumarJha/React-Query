@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Node js is awesome"
+    },
+    {
+      "id": "2",
+      "title": "JavaScript is cool"
+    },
+    {
+      "id": "3",
+      "title": "Software development"
+    },
+    {
+      "id": 1723687281698,
+      "title": "Express js is awesome"
+    }
+  ]
+}
